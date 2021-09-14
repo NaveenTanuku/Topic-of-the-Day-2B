@@ -1,7 +1,6 @@
 # Topic-of-the-Day-2B
 
-### Proposed Stack For The Project:   
-
+## Proposed Stack For The Project:   
 * Programming Languages :   
   1. C#
 * Libraries & Frameworks   
