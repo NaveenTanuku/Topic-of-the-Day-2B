@@ -22,3 +22,10 @@
 | 9       | 03/09/22 - 03/23/22 | Integrate the application and testing                                                                |
 | 10      | 03/23/22 - 03/30/22 | Identify the product defeats & bugs and make document.                                               |
 | 11      | 03/30/22 - 04/15/22 | Deployment and enhancments as per the market reviews                                                 |
+
+### PROJECT BUDGET
+  1. Staffing/Project Oversight
+        Staffing (120 hrs per mtg x 3 for research, planning resource materials, logistics, etc.)              $4500.00
+        Benefits (payroll tax)                                                                                 $500.00
+        Consultants (for building toolkits and facilitation)                                                   $2500.00
+        Personnel Subtotal                                                                                     $7500.00
