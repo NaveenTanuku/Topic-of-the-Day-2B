@@ -37,15 +37,22 @@
 ### Stack 
   
 
-##  Dot Net/C#  => Backend language + framework 
+####  Dot Net/C#  => Backend language + framework 
 
 - The work will be begin in the second semester as per the designed plan.
 
-## Heroku => Host App
+#### Heroku => Host App
 
 - We deploy the application at the end of the sprints.
 
-## Heroku PostgreSQL => Data Host & Type
+#### Heroku PostgreSQL => Data Host & Type
 
 - Usage and creation of databases will be begin in the begining of second semster.
 
+#### Server-side views => Front-end page plan 
+
+- We submits a request from application for information from the server, which instantly responds by sending a fully rendered page to the client.
+
+#### Angular, CSS, BootStrap => Front-end responsive design 
+
+- We will be responsible for implementing designs and concepts on the web
