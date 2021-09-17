@@ -25,7 +25,7 @@
 
 ### PROJECT BUDGET
   1. Staffing/Project Oversight
-        Staffing (120 hrs per mtg x 3 for research, planning resource materials, logistics, etc.)              $4500.00
-        Benefits (payroll tax)                                                                                 $500.00
-        Consultants (for building toolkits and facilitation)                                                   $2500.00
-        Personnel Subtotal                                                                                     $7500.00
+        Staffing (120 hrs per mtg x 3 for research, planning resource materials, logistics, etc.)              $4500.00  <br>
+        Benefits (payroll tax)                                                                                 $500.00  <br>
+        Consultants (for building toolkits and facilitation)                                                   $2500.00 <br>
+        Personnel Subtotal                                                                                     $7500.00 <br>
