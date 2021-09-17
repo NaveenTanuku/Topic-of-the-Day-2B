@@ -32,4 +32,20 @@
   2. Other Expenses
       Stationary stipends (optional)                                                                              $3,000.00 <br>
       
-  <b> Total Expenses - $10,500
+  <b> Total Expenses - $10,500</b>
+  
+### Stack 
+  
+
+##  Dot Net/C#  => Backend language + framework 
+
+- The work will be begin in the second semester as per the designed plan.
+
+## Heroku => Host App
+
+- We deploy the application at the end of the sprints.
+
+## Heroku PostgreSQL => Data Host & Type
+
+- Usage and creation of databases will be begin in the begining of second semster.
+
