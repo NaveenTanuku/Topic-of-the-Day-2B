@@ -3,6 +3,9 @@
 ## Request for Proposal
 RFP of the project can be seen [here](https://github.com/Rohitreddz/Topic-of-the-Day/blob/main/rfp.md)
 
+## Deployed Version Repo
+Deployed code of the project can be seen [here](https://github.com/NaveenTanuku/TopicDay)
+
 ## App Focus:
 The main goal of our progressive app is to assist the bearcats to get the information about the updates of different topics that are happening in the university and to check if they reached out to them.
 
