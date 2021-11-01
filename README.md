@@ -25,5 +25,4 @@ The main goal of our progressive app is to assist the bearcats to get the inform
   5. Front-end page plan :
       * Server-side views
 
-## Request For Proposal
-RFP of the project can be seen [HERE](https://github.com/Rohitreddz/Topic-of-the-Day/blob/main/rfp.md).
+
