@@ -25,4 +25,5 @@ The main goal of our progressive app is to assist the bearcats to get the inform
   5. Front-end page plan :
       * Server-side views
 
+We are developing the responsive Website with ***.Net Framework*** for Back-end and ***HTML,CSS,BootStrap*** for front-end with ***heroku*** as hostimg app.
 
