@@ -79,3 +79,9 @@ https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contr
 https://www.g2.com/articles/rfp-request-for-proposal
 https://blog.hubspot.com/agency/proposal-formula
 
+
+### User Interface Screenshots
+#### Home Page
+![Home page](https://github.com/NaveenTanuku/Topic-of-the-Day-2B/blob/main/Images/welcome_page.png)   
+
+
