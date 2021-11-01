@@ -71,4 +71,10 @@ Sprints are divided into 11 segments, with the start and completion dates as wel
 - We will be responsible for implementing designs and concepts on the web
 
 
+### References   
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+https://www.rfpio.com/blog/rfp-response-habits/
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
+https://www.g2.com/articles/rfp-request-for-proposal
+https://blog.hubspot.com/agency/proposal-formula
 
