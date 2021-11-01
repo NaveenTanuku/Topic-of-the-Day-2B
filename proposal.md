@@ -85,7 +85,6 @@ https://blog.hubspot.com/agency/proposal-formula
 ![Home page](https://github.com/NaveenTanuku/Topic-of-the-Day-2B/blob/main/Images/welcome_page.png)   
 #### List Page   
 ![Sign-in page](https://github.com/NaveenTanuku/Topic-of-the-Day-2B/blob/main/Images/login.png)  
-[10:43 PM] Akula,Arnav
 #### Registration Page
 ![Signup page](https://github.com/NaveenTanuku/Topic-of-the-Day-2B/blob/main/Images/signup.png)
 
