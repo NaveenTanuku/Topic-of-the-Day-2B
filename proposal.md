@@ -10,7 +10,7 @@ For every two weeks, a sprint is calculated. Each step will be completed in a si
 
 ### Scope of work   
 
-Sprints are divided into 11 segments, with the start and completion dates as well as what we must do in each sprint is clearly stated.
+Sprints are divided into 11 segments and two semesters, with the start and completion dates as well as what we must do in each sprint is clearly stated in below tabluar format.
 
 
 ## Sprints plan is designed in the two GDP semesters as follows: 
