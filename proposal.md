@@ -4,6 +4,15 @@
 
 A progressive web application application that display about the most happening topic that could be helpful for every student regardless of their educational background. This application shows a main highlighted topic on the main screeen in a way where students get to know all the information about that particular topic.
 
+### Schedule
+
+For every two weeks, a sprint is calculated. Each step will be completed in a single Sprint.
+
+### Scope of work   
+
+Sprints are divided into 11 segments, with the start and completion dates as well as what we must do in each sprint is clearly stated.
+
+
 ## Sprints plan is designed in the two GDP semesters as follows: 
 
 ### First Semester: 
