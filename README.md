@@ -9,7 +9,8 @@ Deployed code of the project can be seen [here](https://github.com/NaveenTanuku/
 ## App Focus:
 The main goal of our progressive app is to assist the bearcats to get the information about the updates of different topics that are happening in the university and to check if they reached out to them.
 
-
+## Application Documentation:
+The docmentation of the project can be seen [here](https://naveentanuku.github.io/TopicOfTheDay-doc)
 
 ## Proposed Stack For The Project:   
 * Programming Languages :   
