@@ -1,5 +1,7 @@
 # Topic-of-the-Day-2B
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/93bb651c35f74f4bb7e01ee61939dd20)](https://www.codacy.com/gh/NaveenTanuku/TopicDay/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NaveenTanuku/TopicDay&amp;utm_campaign=Badge_Grade)
+
 ## Request for Proposal
 RFP of the project can be seen [here](https://github.com/Rohitreddz/Topic-of-the-Day/blob/main/rfp.md)
 
