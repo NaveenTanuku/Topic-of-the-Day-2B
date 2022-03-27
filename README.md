@@ -7,8 +7,8 @@
 
 |  Name     | Role | Email     |
 | :---        |    :----:   |          ---: |
-| [**Arnav Akula**](https://github.com/Arnavakula7474)      | Front-End-Developer       | S542000@nwmissouri.edu   |
-| [**Naveen Tanuku**](https://github.com/NaveenTanuku)   | Back-End-Developer        | S542308@nwmissouri.edu      |
+| [**Arnav Akula**](https://github.com/Arnavakula7474)      | Front-End-Developer       | S542308@nwmissouri.edu   |
+| [**Naveen Tanuku**](https://github.com/NaveenTanuku)   | Back-End-Developer        | S542000@nwmissouri.edu      |
 
 ## Request for Proposal
 RFP of the project can be seen [here](https://github.com/Rohitreddz/Topic-of-the-Day/blob/main/rfp.md)
