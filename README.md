@@ -27,7 +27,7 @@ The docmentation of the project can be seen [here](https://naveentanuku.github.i
   3. Hosting platform
       * Heroku
   4. Data Host & Type
-      * Heroku MongoDB
+      * Azure
   5. Front-end page plan :
       * Server-side views
 
