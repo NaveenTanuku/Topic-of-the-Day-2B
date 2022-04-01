@@ -19,6 +19,11 @@ Deployed code of the project can be seen [here](https://github.com/NaveenTanuku/
 ## App Focus:
 The main goal of our progressive app is to assist the bearcats to get the information about the updates of different topics that are happening in the university and to check if they reached out to them.
 
+## External Requirement:
+
+[Microsoft Visual Studio (2019)](https://visualstudio.microsoft.com/downloads/): Install the Community version.<br>
+[Heroku Account](https://id.heroku.com/login): If you wish to deploy on heroku please get an account for hosting platform <br>
+
 ## Deployment
 
 • We made it easier for the application to be **deployed** automatically When you make any **changes** to the repository, the **build** will start **deploying** to Heroku **automatically**. </br>
