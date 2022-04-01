@@ -32,6 +32,7 @@ The main goal of our progressive app is to assist the bearcats to get the inform
       * CSS
       * BootStrap( For responsive design)
       * Angular
+      * HTML
   2. Backend
       * .NET
   3. Hosting platform
